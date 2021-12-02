@@ -1,0 +1,10 @@
+.env/
+.DS_Store
+.vscode
+*.pyc
+data/
+assets_old/
+class_2.py
+pre.py
+script_a.py
+script_b.py
